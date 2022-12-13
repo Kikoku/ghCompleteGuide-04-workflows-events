@@ -4,7 +4,6 @@ import userEvent from "@testing-library/user-event";
 
 import MainContent from "./MainContent";
 
-// Adding a comment
 // skipping workflow add [skip ci] or [skip actions] to commit message
 
 describe("MainContent", () => {
